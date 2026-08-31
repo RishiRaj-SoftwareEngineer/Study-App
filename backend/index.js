@@ -39,7 +39,8 @@ app.use(cookieParser());
 app.use(
     cors({
         origin: [
-            'http://localhost:5173', // Firebase URL
+            'http://localhost:5173',
+            'https://study-app-rd4o.onrender.com', // Firebase URL
         ],
         credentials: true,
     }),
