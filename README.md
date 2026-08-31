@@ -1,4 +1,4 @@
-# 📚 StudyHub — Note Sharing & Quiz Platform
+# 📚 StudyHub - Note Sharing & Quiz Platform
 
 StudyHub is a full‑stack (MERN) learning platform built **for students, by students**. It lets users **share study notes**, **create and attempt quizzes**, **track learning activity**, and receive **role‑based dashboards** for students, teachers, and admins.
 
