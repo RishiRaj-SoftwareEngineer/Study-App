@@ -2,7 +2,7 @@
 
 StudyHub is a full‑stack (MERN) learning platform built **for students, by students**. It lets users **share study notes**, **create and attempt quizzes**, **track learning activity**, and receive **role‑based dashboards** for students, teachers, and admins.
 
-💻 **GitHub Repository:** [https://github.com/RishiRaj-SoftwareEngineer/Study-App](https://github.com/RishiRaj-SoftwareEngineer/Study-App)
+💻 **GitHub Repository:** [https://github.com/RishiRaj-SoftwareEngineer/Study-App](https://github.com/RishiRaj-SoftwareEngineer/Study-App) <br>
 🌐 **Live Website:** [https://study-app-rd4o.onrender.com/](https://study-app-rd4o.onrender.com/)
 
 ---
